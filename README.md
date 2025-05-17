@@ -1,4 +1,5 @@
 🧠 Coleta de Dados do Instagram via Apify
+
 Este repositório contém um script Python para automatizar a coleta de dados de perfis públicos do Instagram utilizando a plataforma Apify. O script lê uma lista de contas a partir de uma planilha, coleta os posts mais recentes de cada conta e salva os dados em arquivos .xlsx.
 
 📌 Funcionalidades
